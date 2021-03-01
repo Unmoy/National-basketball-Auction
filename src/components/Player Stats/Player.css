@@ -1,0 +1,13 @@
+.players-container {
+  display: flex;
+}
+.all-players {
+  width: 60%;
+  margin-left: 30px;
+  border-right: 1px solid red;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.player-list {
+  margin-left: 10px;
+}

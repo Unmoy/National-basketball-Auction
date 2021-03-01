@@ -1,0 +1,144 @@
+[{
+  "id": 1,
+  "name": "LeBron James",
+  "image": "https://pyxis.nymag.com/v1/imgs/847/0f7/504c63a03d8a751a5cbeda0bc064306bb4-lebron-james.rsquare.w1200.jpg",
+  "country": "United States",
+  "salary": 200,
+  "gender": "Male",
+  "age": "36"
+}, {
+  "id": 2,
+  "name": "Kobe Bryant",
+  "country": "United States",
+   "image": "https://pyxis.nymag.com/v1/imgs/847/0f7/504c63a03d8a751a5cbeda0bc064306bb4-lebron-james.rsquare.w1200.jpg",
+   "salary": 200,
+  "gender": "Male",
+  "age": "40"
+}, {
+  "id": 3,
+  "name": "Kyrie Irving",
+  "country": "Australia",
+   "image": "https://pyxis.nymag.com/v1/imgs/847/0f7/504c63a03d8a751a5cbeda0bc064306bb4-lebron-james.rsquare.w1200.jpg",
+  "gender": "Male",
+  "salary": 200,
+  "age": "28"
+}, {
+  "id": 4,
+  "name": "Allen Iverson",
+  "country": "United States",
+   "image": "https://pyxis.nymag.com/v1/imgs/847/0f7/504c63a03d8a751a5cbeda0bc064306bb4-lebron-james.rsquare.w1200.jpg",
+  "gender": "Male",
+  "salary": 200,
+  "age": "28"
+}, {
+  "id": 5,
+  "name": "Michael Jordan",
+  "country": "United States",
+  "gender": "Male",
+  "salary": 200,
+  "age": "58"
+}, {
+  "id": 6,
+  "name": "Bill Russell",
+  "country": " United States",
+  "salary": 200,
+  "age": "Genderqueer"
+}, {
+  "id": 7,
+  "name": "Magic Johnson",
+  "country": "kmccloughen6@hubpages.com",
+  "salary": 200,
+  "gender": "Polygender",
+  "age": "Genderfluid"
+}, {
+  "id": 8,
+  "name": "James Harden",
+  "country": "fclendening7@friendfeed.com",
+  "salary": 200,
+  "gender": "Polygender",
+  "age": "Agender"
+}, {
+  "id": 9,
+  "name": "Marne",
+  "country": "mlemarie8@fc2.com",
+  "salary": 200,
+  "gender": "Polygender",
+  "age": "Non-binary"
+}, {
+  "id": 10,
+  "name": "Ambrose",
+  "country": "asenescall9@dmoz.org",
+  "salary": 200,
+  "gender": "Genderqueer",
+  "age": "Polygender"
+}, {
+  "id": 11,
+  "name": "Charil",
+  "country": "cperkisa@mozilla.com",
+  "salary": 200,
+  "gender": "Bigender",
+  "age": "Female"
+}, {
+  "id": 12,
+  "name": "Palm",
+  "country": "pjoinseyb@g.co",
+  "salary": 200,
+  "gender": "Agender",
+  "age": "Non-binary"
+}, {
+  "id": 13,
+  "name": "Marinna",
+  "country": "mmarcamc@ebay.co.uk",
+  "salary": 200,
+  "gender": "Genderqueer",
+  "age": "Bigender"
+}, {
+  "id": 14,
+  "name": "Melanie",
+  "country": "mskittrelld@seattletimes.com",
+  "salary": 200,
+  "gender": "Bigender",
+  "age": "Polygender"
+}, {
+  "id": 15,
+  "name": "Bryon",
+  "country": "bknaggese@ucoz.ru",
+  "salary": 200,
+  "gender": "Bigender",
+  "age": "Non-binary"
+}, {
+  "id": 16,
+  "name": "Carolynn",
+  "country": "ckalbf@live.com",
+  "salary": 200,
+  "gender": "Male",
+  "age": "Genderqueer"
+}, {
+  "id": 17,
+  "name": "Dagny",
+  "country": "dmackneisg@yellowpages.com",
+  "salary": 200,
+  "gender": "Genderqueer",
+  "age": "Genderfluid"
+}, {
+  "id": 18,
+  "name": "Pavla",
+  "country": "pmcpharlainh@vimeo.com",
+  "salary": 200,
+  "gender": "Polygender",
+  "age": "Polygender"
+}, {
+  "id": 19,
+  "name": "Devin",
+  "country": "dbuesneli@artisteer.com",
+  "salary": 200,
+  "gender": "Male",
+  "age": "Non-binary"
+}, {
+  "id": 20,
+  "name": "Corey",
+  "country": "cbrugmanj@paypal.com",
+  "salary": 200,
+  "gender": "Genderqueer",
+  "age": "Genderqueer"
+}]
